@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'Calestic';
+  src: url('/EcommerceApp/f24q125-calestic/ttf/f24q125-calestic-calestic-regular-400.ttf') format('woff'),
+    url('/EcommerceApp/f24q125-calestic/otf/f24q125-calestic-calestic-regular-400.otf') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
