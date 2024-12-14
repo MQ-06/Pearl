@@ -1,4 +1,4 @@
-import React from "react";
+ import React from "react";
 import { FaShoppingCart } from "react-icons/fa";
 
 const Header = ({ cartItems, toggleSidebar }) => {
