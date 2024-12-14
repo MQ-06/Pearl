@@ -27,8 +27,14 @@ Pearl `(NAME I CHOOSED FOR MY WEBSITE)` is a modern e-commerce web application b
 3. Make sure to have [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/) installed before starting. Also u should have tailwind css setup.
 
 
+##  Running the Project
 
-
-
+Follow these steps to run the project:
+   ```bash
+1.git clone https://github.com/MQ-06/Pearl-An-Ecommerce-App.git
+2.Navigate to the Project Folder: cd EcommerceApp (if opened through zip folder)
+3.Install Dependencies: npm install
+4.Set Up Tailwind CSS
+5.Run the Project: npm run dev
 
 
