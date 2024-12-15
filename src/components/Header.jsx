@@ -1,4 +1,4 @@
- import React from "react";
+import React from "react";
 import { FaShoppingCart } from "react-icons/fa";
 
 const Header = ({ cartItems, toggleSidebar }) => {
@@ -19,7 +19,7 @@ const Header = ({ cartItems, toggleSidebar }) => {
       <ul className="flex space-x-4 text-sm">
         <li>
           <button
-            onClick={toggleSidebar} // Trigger sidebar toggle when clicked
+            onClick={toggleSidebar}
             className="flex items-center space-x-2 border border-gray-400 px-4 py-2 rounded hover:bg-gray-100 transition"
           >
             <FaShoppingCart className="text-[#5C4033]" />
