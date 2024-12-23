@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import ItemCard from "./ItemCard";
-import CartSidebar from "./CartSidebar";
+import CartSideBar from "./CartSideBar";
 import Header from "./Header";
 
 const Items = () => {
@@ -137,7 +137,7 @@ const Items = () => {
       </div>
 
       {cartVisible && (
-        <CartSidebar
+        <CartSideBar
           cartItems={cart}
           toggleSidebar={toggleCartSidebar}
           updateCart={updateCart}
