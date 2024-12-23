@@ -5,48 +5,7 @@ import Header from "./Header";
 
 const Items = () => {
   const defaultItems = [
-    {
-      id: 1,
-      title: "Elegant Necklace",
-      description: "A beautiful gold-plated necklace.",
-      price: 128,
-      image: "/src/assets/necklaces.jpg",
-    },
-    {
-      id: 2,
-      title: "Silver Bracelet",
-      description: "Stylish silver bracelet for all occasions.",
-      price: 90,
-      image: "https://i.pinimg.com/736x/6a/18/d1/6a18d1b8fecc794ff36e633755a1f79b.jpg",
-    },
-    {
-      id: 3,
-      title: "Pearl Set",
-      description: "Classic pearl set for timeless elegance.",
-      price: 150,
-      image: "/src/assets/necklaces2.jpg",
-    },
-    {
-      id: 4,
-      title: "Diamond Ring",
-      description: "A dazzling diamond ring that catches the light.",
-      price: 200,
-      image: "/src/assets/ring.jpg",
-    },
-    {
-      id: 5,
-      title: "Gold Earrings",
-      description: "Elegant gold earrings perfect for any occasion.",
-      price: 75,
-      image: "/src/assets/earings.jpg",
-    },
-    {
-      id: 6,
-      title: "Sapphire Necklace",
-      description: "A luxurious necklace with sapphire accents.",
-      price: 300,
-      image: "/src/assets/green.jpg",
-    },
+    
     {
       id: 1734200204188,
       title: "Blue diamond",
