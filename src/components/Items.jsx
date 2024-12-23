@@ -17,7 +17,7 @@ const Items = () => {
       title: "Silver Bracelet",
       description: "Stylish silver bracelet for all occasions.",
       price: 90,
-      image: "/src/assets/Classy%20watch.jpg",
+      image: "https://i.pinimg.com/736x/6a/18/d1/6a18d1b8fecc794ff36e633755a1f79b.jpg",
     },
     {
       id: 3,
